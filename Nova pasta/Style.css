@@ -1,0 +1,89 @@
+body {
+  background-color: #757474;
+  /* cor de fundo da pagina  */
+}
+
+.barralogo {
+  /* bara da logo com o nome do site*/
+  background-color: #474747;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  height: 83px;
+  /*altura da tarja*/
+  /* Exemplo de altura maior para o rodapé */
+
+}
+.quadrologo {
+  background-color: #474747;
+  padding: 1px;
+  margin-top: 0px;
+  height: 120px;
+  text-align: center;
+}
+
+
+
+.L1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+.quadrocentral {
+  background-color: #474747;
+  padding: 1px;
+  margin-top: 20px;
+  height: 300;
+}
+
+.btnCanto {
+  position: absolute;
+  top: 5%;
+  left: 90%;
+  font-size: 18px;
+
+}
+
+.quadrocentral1 {
+  background-color: #474747;
+  padding: 1px;
+  margin-top: 20px;
+  height: 400px;
+}
+
+.styloLogo {
+  text-decoration: none;
+}
+
+.quadroimages {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.quadrogabriel {
+  border: 5px solid #fd914a;
+}
+
+.quadrolucas {
+  border: 5px solid #fd914a
+}
+
+.quadrofabricio {
+  border: 5px solid #fd914a
+}
+.quadrocentralcdFeirante {
+  background-color: #474747;
+  padding: 1px;
+  margin-top: 20px;
+  height: 380;
+}
